@@ -52,7 +52,7 @@ Below are some internal screenshots from the project to illustrate the concept:
 
 ---
 
-## Database Structre
+## Database Structure
 
 ![Database1](Screenshots/Screenshot_4.png)  
 ![Database2](Screenshots/Screenshot_5.png)  
